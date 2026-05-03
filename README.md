@@ -1,0 +1,2 @@
+# groundwater_rag_model
+RAG MODEL BUILT FOR NEBRASKA GROUND WATER SYSTEM
