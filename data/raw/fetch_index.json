@@ -1,0 +1,86 @@
+{
+  "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=46": {
+    "doc_id": "0d45c98311cc8060fd27af2c",
+    "source_url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=46",
+    "final_url": "https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=46",
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "",
+    "last_modified": "",
+    "sha256": "86a5b459e320782837585ec3b2f5285e16f07fde3cd3e48211c0357c147a1138",
+    "bytes_len": 665206,
+    "retrieved_at_utc": "2026-03-06T01:30:44.157961+00:00",
+    "raw_path": "nebraskalegislature.gov_laws_browse-chapters.php__0d45c98311cc8060fd27af2c.html"
+  },
+  "https://nebraskalegislature.gov/laws/search_range_statute.php?begin_section=46-701&end_section=46-756": {
+    "doc_id": "efb999bc2412df59257aed36",
+    "source_url": "https://nebraskalegislature.gov/laws/search_range_statute.php?begin_section=46-701&end_section=46-756",
+    "final_url": "https://nebraskalegislature.gov/laws/search_range_statute.php?begin_section=46-701&end_section=46-756",
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "",
+    "last_modified": "",
+    "sha256": "d30803afe55dc1bc46c43012ab0e6c8a835cc3f1f6b7faa5486bf5f1f913ba8b",
+    "bytes_len": 64401,
+    "retrieved_at_utc": "2026-03-06T01:30:45.311573+00:00",
+    "raw_path": "nebraskalegislature.gov_laws_search_range_statute.php__efb999bc2412df59257aed36.html"
+  },
+  "https://dnr.nebraska.gov/water-planning/state-laws-and-rules": {
+    "doc_id": "e3ebe7eec8b03a27a9aad9a8",
+    "source_url": "https://dnr.nebraska.gov/water-planning/state-laws-and-rules",
+    "final_url": "https://dnr.nebraska.gov/water-planning/state-laws-and-rules",
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "W/\"1772730209\"",
+    "last_modified": "Thu, 05 Mar 2026 17:03:29 GMT",
+    "sha256": "f9394e6c5637bed83908aecb1d13b88f283591ea0ed3425245eb5ff759aa79ec",
+    "bytes_len": 44340,
+    "retrieved_at_utc": "2026-03-06T01:30:46.541960+00:00",
+    "raw_path": "dnr.nebraska.gov_water-planning_state-laws-and-rules__e3ebe7eec8b03a27a9aad9a8.html"
+  },
+  "https://dnr.nebraska.gov/sites/default/files/doc/about/statutes/GWMgmtProtectionActStatutes.pdf": {
+    "doc_id": "be3abec59479b441aa3126cc",
+    "source_url": "https://dnr.nebraska.gov/sites/default/files/doc/about/statutes/GWMgmtProtectionActStatutes.pdf",
+    "final_url": "https://dnr.nebraska.gov/sites/default/files/doc/about/statutes/GWMgmtProtectionActStatutes.pdf",
+    "content_type": "application/pdf",
+    "etag": "\"67dc8b3a-63490\"",
+    "last_modified": "Thu, 20 Mar 2025 21:40:10 GMT",
+    "sha256": "478f600e4262a3c557ab7a50873d0058a5600fb7fa64f3b4aa30060d949034b6",
+    "bytes_len": 406672,
+    "retrieved_at_utc": "2026-03-06T01:30:48.157248+00:00",
+    "raw_path": "dnr.nebraska.gov_sites_default_files_doc_about_statutes_GWMgmtProtectionActStatutes.pdf__be3abec59479b441aa3126cc.pdf"
+  },
+  "https://www.cpnrd.org/wp-content/uploads/RULES-REGS_09_26_2024.pdf": {
+    "doc_id": "d79322622ce8c306d582cd02",
+    "source_url": "https://www.cpnrd.org/wp-content/uploads/RULES-REGS_09_26_2024.pdf",
+    "final_url": "https://www.cpnrd.org/wp-content/uploads/RULES-REGS_09_26_2024.pdf",
+    "content_type": "application/pdf",
+    "etag": "\"670d23d5-178c73\"",
+    "last_modified": "Mon, 14 Oct 2024 13:59:49 GMT",
+    "sha256": "513fe8c2d5ec462fda593e8a2029fd965fd88d4f092c783900a9a84a20e33f8d",
+    "bytes_len": 1543283,
+    "retrieved_at_utc": "2026-03-06T01:22:46.125812+00:00",
+    "raw_path": "www.cpnrd.org_wp-content_uploads_RULES-REGS_09_26_2024.pdf__d79322622ce8c306d582cd02.pdf"
+  },
+  "https://www.cpnrd.org/forms-permits/": {
+    "doc_id": "d53d49912507570a497ea80c",
+    "source_url": "https://www.cpnrd.org/forms-permits/",
+    "final_url": "https://www.cpnrd.org/forms-permits/",
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "",
+    "last_modified": "",
+    "sha256": "e67f79594c3feaa106f57ddebff6d44ca79ea5244556bc8395940064c84176a2",
+    "bytes_len": 62354,
+    "retrieved_at_utc": "2026-03-06T01:30:50.543085+00:00",
+    "raw_path": "www.cpnrd.org_forms-permits__d53d49912507570a497ea80c.html"
+  },
+  "https://www.cpnrd.org/water-resources/wells/": {
+    "doc_id": "e87caa0b9d384f63433765e8",
+    "source_url": "https://www.cpnrd.org/water-resources/wells/",
+    "final_url": "https://www.cpnrd.org/water-resources/wells/",
+    "content_type": "text/html; charset=UTF-8",
+    "etag": "",
+    "last_modified": "",
+    "sha256": "09fc1aab6b91c380255de27b7230a4f4c7a1d746bdb294dae9f165a9a4818523",
+    "bytes_len": 64564,
+    "retrieved_at_utc": "2026-03-06T01:30:52.508589+00:00",
+    "raw_path": "www.cpnrd.org_water-resources_wells__e87caa0b9d384f63433765e8.html"
+  }
+}

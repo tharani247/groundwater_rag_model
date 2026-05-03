@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pypdf
+psycopg[binary]
+python-dotenv
+tqdm
+sentence-transformers
+numpy
